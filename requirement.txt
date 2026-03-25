@@ -1,0 +1,10 @@
+pypdf2
+streamlit
+nltk
+re 
+stopwords
+TfidfVectorizer
+cosine_similarity
+counter
+json
+os
