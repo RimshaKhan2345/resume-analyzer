@@ -1,11 +1,4 @@
-pypdf2
 streamlit
+PyPDF2
 nltk
-re 
-stopwords
-TfidfVectorizer
-cosine_similarity
-counter
-json
-os
-sklearn
+scikit-learn
